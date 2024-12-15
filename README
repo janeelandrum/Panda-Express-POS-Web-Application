@@ -1,0 +1,9 @@
+This is a web application for a point of sale system for Panda Express. This was done as a semester-long project for CSCE-331 at Texas A&M University.
+
+This project was completed within a team of five people, during which we utilized the agile methodology for development. The application was made using Node and React over the course of 3 sprints, 
+during which the team participated in individual and collaborative developing, debugging, and code merging. I was the SCRUM master for the project, however I also contributed heavily as a backend developer. 
+
+Because the database that was used for the web app is no longer available (and therefore the website is no longer functional), I have included a video demo of myself showing off the features of the project.
+This video can be found as a file in the root of the repository, or at the google drive link below.
+
+https://drive.google.com/file/d/1KtnzUA7Z1l9l3uabjfjGNPpc5HSS_knz/view?usp=drive_link
